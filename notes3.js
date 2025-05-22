@@ -1,6 +1,6 @@
 var notesContainer=document.querySelector(".notes-container");
 var createBtn = document.querySelector(".btn");
-var notes=document.querySelectorAll(".input-box")
+var notes=document.querySelectorAll(".input-box");
 
 
 function show()
