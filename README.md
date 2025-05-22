@@ -1,1 +1,1 @@
-# My-Javascript-Projects
+Notes Maker Using Javascript
